@@ -29,10 +29,10 @@ void main()
         val = adc();
         show("LIGHT: ");
         if(val>150) {
-            show("LOW ");
+            show("LOW-LED ON ");
             LED = 1;
         } else {
-            show("HIGH");
+            show("HIGH-LED OFF");
             LED = 0;
         }
     }
