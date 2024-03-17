@@ -27,7 +27,7 @@ void main()
 
         cmd(0x80);
         val = adc();
-        show("LIGHT INT : ");
+        show("LIGHT: ");
         if(val>150) {
             show("LOW ");
             LED = 1;
