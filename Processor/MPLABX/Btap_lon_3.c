@@ -39,9 +39,9 @@ void main()
     show("Ky tu: ");
     
     while(1) {
-        rcvCh = rx(); // receive character from UART
-        tx(rcvCh); // echo back to UART terminal
-        show(&rcvCh); // display on LCD
+        rcvCh = rx(); // nhan ky tu tu UART
+        tx(rcvCh); // vong lai UART terminal
+        show(&rcvCh); // hien thi ra LCD
     }   
 }   
 
