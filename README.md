@@ -1,5 +1,5 @@
 << Sưu tầm: Trần Hải Nam >>
-<< Pls give me one follow, thanks you! >>
+<< Pls give me one follow and one Star, thanks you! >>
 
 (1) Tải và dán các thư viện linh kiện cảm biến trong Library (Có rồi thì bỏ qua!) vào đường dẫn sau:
 "C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY"
