@@ -35,7 +35,7 @@ void main()
     txstr("(Nhom 3 test USART): Nhap ky tu tu ban phim may tinh:)\n\r\r");
     
     lcd_init();
-    cmd(0x80);
+    cmd(0x80); // ep vi tri con tro o dau dong thu nhat
     show("Ky tu: ");
     
     while(1) {
